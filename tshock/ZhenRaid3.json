@@ -1,0 +1,191 @@
+{
+  "Raids": [
+    {
+      "Raid": "goblin",
+      "Allow": true,
+      "Active": false,
+      "Message": "The {Raid} has begun",
+      "Color": "Cyan"
+    },
+    {
+      "Raid": "pirate",
+      "Allow": true,
+      "Active": false,
+      "Message": "The {Raid} has begun",
+      "Color": "Cyan"
+    },
+    {
+      "Raid": "bloodmoon",
+      "Allow": true,
+      "Active": false,
+      "Message": "The {Raid} has begun",
+      "Color": "Cyan"
+    },
+    {
+      "Raid": "oldonesarmy",
+      "Allow": false,
+      "Active": false,
+      "Message": "The {Raid} has begun",
+      "Color": "Cyan"
+    },
+    {
+      "Raid": "frostlegion",
+      "Allow": true,
+      "Active": false,
+      "Message": "The {Raid} has begun",
+      "Color": "Cyan"
+    },
+    {
+      "Raid": "pumpkinmoon",
+      "Allow": false,
+      "Active": false,
+      "Message": "The {Raid} has begun",
+      "Color": "Cyan"
+    },
+    {
+      "Raid": "frostmoon",
+      "Allow": false,
+      "Active": false,
+      "Message": "The {Raid} has begun",
+      "Color": "Cyan"
+    },
+    {
+      "Raid": "martian",
+      "Allow": true,
+      "Active": false,
+      "Message": "The {Raid} has begun",
+      "Color": "Cyan"
+    },
+    {
+      "Raid": "solareclipse",
+      "Allow": false,
+      "Active": false,
+      "Message": "The {Raid} has begun",
+      "Color": "Cyan"
+    },
+    {
+      "Raid": "lunar",
+      "Allow": false,
+      "Active": false,
+      "Message": "The {Raid} has begun",
+      "Color": "Cyan"
+    },
+    {
+      "Raid": "slimerain",
+      "Allow": true,
+      "Active": false,
+      "Message": "The {Raid} has begun",
+      "Color": "Cyan"
+    },
+    {
+      "Raid": "sandstorm",
+      "Allow": true,
+      "Active": false,
+      "Message": "The {Raid} has begun",
+      "Color": "Cyan"
+    },
+    {
+      "Raid": "party",
+      "Allow": true,
+      "Active": false,
+      "Message": "The {Raid} has begun",
+      "Color": "Cyan"
+    },
+    {
+      "Raid": "windyday",
+      "Allow": true,
+      "Active": false,
+      "Message": "The {Raid} has begun",
+      "Color": "Cyan"
+    },
+    {
+      "Raid": "starfall",
+      "Allow": false,
+      "Active": false,
+      "Message": "The {Raid} has begun",
+      "Color": "Cyan"
+    },
+    {
+      "Raid": "thunderstorm",
+      "Allow": true,
+      "Active": false,
+      "Message": "The {Raid} has begun",
+      "Color": "Cyan"
+    },
+    {
+      "Raid": "meteorshower",
+      "Allow": true,
+      "Active": false,
+      "Message": "The {Raid} has begun",
+      "Color": "Cyan"
+    },
+    {
+      "Raid": "coinrain",
+      "Allow": true,
+      "Active": false,
+      "Message": "The {Raid} has begun",
+      "Color": "Cyan"
+    },
+    {
+      "Raid": "boulderrain",
+      "Allow": true,
+      "Active": false,
+      "Message": "The {Raid} has begun",
+      "Color": "Cyan"
+    },
+    {
+      "Raid": "meteorrain",
+      "Allow": true,
+      "Active": false,
+      "Message": "The {Raid} has begun",
+      "Color": "Cyan"
+    },
+    {
+      "Raid": "torchgod",
+      "Allow": false,
+      "Active": false,
+      "Message": "The {Raid} has begun",
+      "Color": "Cyan"
+    },
+    {
+      "Raid": "rain",
+      "Allow": false,
+      "Active": false,
+      "Message": "The {Raid} has begun",
+      "Color": "Cyan"
+    },
+    {
+      "Raid": "lanternnight",
+      "Allow": false,
+      "Active": false,
+      "Message": "The {Raid} has begun",
+      "Color": "Cyan"
+    }
+  ],
+  "Balance": {
+    "Name": "coin",
+    "NamePlural": "coins",
+    "KillReward": 1
+  },
+  "BossRewards": {
+    "KingSlime": 100,
+    "EyeOfCthulhu": 150,
+    "EaterOfWorlds": 250,
+    "BrainOfCthulhu": 250,
+    "QueenBee": 300,
+    "Skeletron": 400,
+    "WallOfFlesh": 500,
+    "QueenSlime": 600,
+    "TheTwins": 750,
+    "TheDestroyer": 750,
+    "SkeletronPrime": 750,
+    "Plantera": 1000,
+    "Golem": 1200,
+    "DukeFishron": 1500,
+    "EmpressOfLight": 2000,
+    "LunaticCultist": 2500,
+    "MoonLord": 5000
+  },
+  "DefaultTopCount": 10,
+  "MaximumTopCount": 100
+}

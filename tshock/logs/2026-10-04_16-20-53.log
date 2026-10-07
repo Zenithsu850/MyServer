@@ -1,0 +1,144 @@
+2026-10-04 16:20:53 - TextLog: INFO: Using ConstileationProvider for tile implementation
+2026-10-04 16:20:53 - TShock: INFO: TShock 6.2.1.0 (Profoundly Collaborative (3.11)) now running.
+2026-10-04 16:20:53 - TShock: INFO: AutoSave Enabled
+2026-10-04 16:20:53 - TShock: INFO: Backups Enabled
+2026-10-04 16:20:53 - TShock: INFO: Welcome to TShock for Terraria!
+2026-10-04 16:20:53 - TShock: INFO: TShock comes with no warranty & is free software.
+2026-10-04 16:20:53 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2026-10-04 16:21:01 - TShock: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2026-10-04 16:21:01 - TShock: INFO: Login using UUID enabled. Users automatically login via UUID.
+2026-10-04 16:21:01 - TShock: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2026-10-04 16:21:03 - GetDataHandlers: INFO: Zhen authenticated successfully as user Zhen.
+2026-10-04 16:21:05 - TShock: INFO: Zhen (192.168.68.114) from 'owner' group from 'N/A' joined. (1/8)
+2026-10-04 16:21:05 - Utils: INFO: Broadcast: Zhen (N/A) has joined.
+2026-10-04 16:21:05 - Utils: INFO: Zhen has joined. IP: 192.168.68.114
+2026-10-04 16:21:38 - Utils: INFO: Server executed: /group addperm owner tshock.rest.command.
+2026-10-04 16:21:42 - Utils: INFO: Zhen executed: /give zenith Zhen.
+2026-10-04 16:21:48 - Utils: INFO: Zhen executed: /give zenith Zhen.
+2026-10-04 16:22:57 - Utils: INFO: Broadcast: Zhen has left.
+2026-10-04 16:22:57 - TShock: INFO: Zhen disconnected.
+2026-10-04 16:22:57 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\MyWorld.wld)
+2026-10-04 16:25:21 - GetDataHandlers: INFO: Zhen authenticated successfully as user Zhen.
+2026-10-04 16:25:24 - TShock: INFO: Zhen (192.168.68.114) from 'owner' group from 'N/A' joined. (1/8)
+2026-10-04 16:25:24 - Utils: INFO: Broadcast: Zhen (N/A) has joined.
+2026-10-04 16:25:24 - Utils: INFO: Zhen has joined. IP: 192.168.68.114
+2026-10-04 16:26:07 - Utils: INFO: Zhen executed: .god.
+2026-10-04 16:30:53 - SaveManager: INFO: World saved at (tshock\backups\MyWorld.wld.2026-10-04T08.30.53Z.bak)
+2026-10-04 16:30:53 - BackupManager: INFO: World backed up (tshock\backups\MyWorld.wld.2026-10-04T08.30.53Z.bak).
+2026-10-04 16:33:47 - Utils: INFO: Broadcast: Zhen has left.
+2026-10-04 16:33:47 - TShock: INFO: Zhen disconnected.
+2026-10-04 16:33:47 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\MyWorld.wld)
+2026-10-04 16:33:54 - GetDataHandlers: INFO: Zhen authenticated successfully as user Zhen.
+2026-10-04 16:33:57 - TShock: INFO: Zhen (192.168.68.114) from 'owner' group from 'N/A' joined. (1/8)
+2026-10-04 16:33:57 - Utils: INFO: Broadcast: Zhen (N/A) has joined.
+2026-10-04 16:33:57 - Utils: INFO: Zhen has joined. IP: 192.168.68.114
+2026-10-04 16:34:11 - Utils: INFO: Zhen executed: /give wood Zhen.
+2026-10-04 16:34:36 - Utils: INFO: Zhen executed: .god.
+2026-10-04 16:39:01 - Utils: INFO: Broadcast: Zhen has left.
+2026-10-04 16:39:01 - TShock: INFO: Zhen disconnected.
+2026-10-04 16:39:01 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\MyWorld.wld)
+2026-10-04 16:39:13 - GetDataHandlers: INFO: Zhen authenticated successfully as user Zhen.
+2026-10-04 16:39:16 - TShock: INFO: Zhen (192.168.68.114) from 'owner' group from 'N/A' joined. (1/8)
+2026-10-04 16:39:16 - Utils: INFO: Broadcast: Zhen (N/A) has joined.
+2026-10-04 16:39:16 - Utils: INFO: Zhen has joined. IP: 192.168.68.114
+2026-10-04 16:39:24 - Utils: INFO: Zhen executed: .god.
+2026-10-04 16:39:27 - Utils: INFO: Zhen executed: /give zenith Zhen.
+2026-10-04 16:40:53 - SaveManager: INFO: World saved at (tshock\backups\MyWorld.wld.2026-10-04T08.40.53Z.bak)
+2026-10-04 16:40:53 - BackupManager: INFO: World backed up (tshock\backups\MyWorld.wld.2026-10-04T08.40.53Z.bak).
+2026-10-04 16:41:48 - Utils: INFO: Broadcast: Zhen has left.
+2026-10-04 16:41:48 - TShock: INFO: Zhen disconnected.
+2026-10-04 16:41:49 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\MyWorld.wld)
+2026-10-04 16:41:59 - GetDataHandlers: INFO: Zhen authenticated successfully as user Zhen.
+2026-10-04 16:42:02 - TShock: INFO: Zhen (192.168.68.114) from 'owner' group from 'N/A' joined. (1/8)
+2026-10-04 16:42:02 - Utils: INFO: Broadcast: Zhen (N/A) has joined.
+2026-10-04 16:42:02 - Utils: INFO: Zhen has joined. IP: 192.168.68.114
+2026-10-04 16:42:28 - Utils: INFO: Zhen executed: /playing.
+2026-10-04 16:44:12 - Utils: INFO: Zhen executed: .god.
+2026-10-04 16:45:17 - Utils: INFO: Zhen executed: .I vortex hamaxe.
+2026-10-04 16:45:40 - Utils: INFO: Zhen executed: .I vortex drill.
+2026-10-04 16:46:44 - Utils: INFO: Zhen executed: /playing.
+2026-10-04 16:46:49 - Utils: INFO: Broadcast: Zhen has left.
+2026-10-04 16:46:49 - TShock: INFO: Zhen disconnected.
+2026-10-04 16:46:50 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\MyWorld.wld)
+2026-10-04 16:46:55 - GetDataHandlers: INFO: Zhen authenticated successfully as user Zhen.
+2026-10-04 16:46:58 - TShock: INFO: Zhen (192.168.68.114) from 'owner' group from 'N/A' joined. (1/8)
+2026-10-04 16:46:58 - Utils: INFO: Broadcast: Zhen (N/A) has joined.
+2026-10-04 16:46:58 - Utils: INFO: Zhen has joined. IP: 192.168.68.114
+2026-10-04 16:47:12 - Utils: INFO: Zhen executed: /give wood Zhen.
+2026-10-04 16:49:17 - Utils: INFO: Broadcast: Zhen has left.
+2026-10-04 16:49:17 - TShock: INFO: Zhen disconnected.
+2026-10-04 16:49:17 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\MyWorld.wld)
+2026-10-04 16:49:23 - GetDataHandlers: INFO: Zhen authenticated successfully as user Zhen.
+2026-10-04 16:49:27 - TShock: INFO: Zhen (192.168.68.114) from 'owner' group from 'N/A' joined. (1/8)
+2026-10-04 16:49:27 - Utils: INFO: Broadcast: Zhen (N/A) has joined.
+2026-10-04 16:49:27 - Utils: INFO: Zhen has joined. IP: 192.168.68.114
+2026-10-04 16:49:34 - Utils: INFO: Zhen executed: .god.
+2026-10-04 16:49:37 - Utils: INFO: Zhen executed: /give wood Zhen.
+2026-10-04 16:49:42 - Utils: INFO: Zhen executed: /playing.
+2026-10-04 16:49:53 - Utils: INFO: Broadcast: Zhen has left.
+2026-10-04 16:49:53 - TShock: INFO: Zhen disconnected.
+2026-10-04 16:49:53 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\MyWorld.wld)
+2026-10-04 16:52:30 - GetDataHandlers: INFO: Zhen authenticated successfully as user Zhen.
+2026-10-04 16:52:33 - HandlerCollection`1: INFO: Zhen (192.168.68.114) from 'owner' group from 'N/A' joined. (1/8)
+2026-10-04 16:52:33 - Utils: INFO: Broadcast: Zhen (N/A) has joined.
+2026-10-04 16:52:33 - TShock: INFO: Zhen has joined. IP: 192.168.68.114
+2026-10-04 16:52:33 - ExecutionContext: INFO: World saved at (tshock\backups\MyWorld.wld.2026-10-04T08.52.33Z.bak)
+2026-10-04 16:52:33 - BackupManager: INFO: World backed up (tshock\backups\MyWorld.wld.2026-10-04T08.52.33Z.bak).
+2026-10-04 16:52:40 - Utils: INFO: Broadcast: Zhen has left.
+2026-10-04 16:52:40 - HandlerCollection`1: INFO: Zhen disconnected.
+2026-10-04 16:52:41 - ExecutionContext: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\MyWorld.wld)
+2026-10-04 16:53:48 - GetDataHandlers: INFO: Zhen authenticated successfully as user Zhen.
+2026-10-04 16:53:51 - HandlerCollection`1: INFO: Zhen (192.168.68.114) from 'owner' group from 'N/A' joined. (1/8)
+2026-10-04 16:53:51 - Utils: INFO: Broadcast: Zhen (N/A) has joined.
+2026-10-04 16:53:51 - TShock: INFO: Zhen has joined. IP: 192.168.68.114
+2026-10-04 16:53:57 - Utils: INFO: Broadcast: Zhen has left.
+2026-10-04 16:53:57 - HandlerCollection`1: INFO: Zhen disconnected.
+2026-10-04 16:53:58 - ExecutionContext: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\MyWorld.wld)
+2026-10-04 16:54:04 - GetDataHandlers: INFO: Zhen authenticated successfully as user Zhen.
+2026-10-04 16:54:07 - HandlerCollection`1: INFO: Zhen (192.168.68.114) from 'owner' group from 'N/A' joined. (1/8)
+2026-10-04 16:54:07 - Utils: INFO: Broadcast: Zhen (N/A) has joined.
+2026-10-04 16:54:07 - TShock: INFO: Zhen has joined. IP: 192.168.68.114
+2026-10-04 16:54:19 - Utils: INFO: Broadcast: Zhen has left.
+2026-10-04 16:54:19 - HandlerCollection`1: INFO: Zhen disconnected.
+2026-10-04 16:54:20 - ExecutionContext: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\MyWorld.wld)
+2026-10-04 16:56:06 - GetDataHandlers: INFO: Zhen authenticated successfully as user Zhen.
+2026-10-04 16:56:09 - HandlerCollection`1: INFO: Zhen (192.168.68.114) from 'owner' group from 'N/A' joined. (1/8)
+2026-10-04 16:56:09 - Utils: INFO: Broadcast: Zhen (N/A) has joined.
+2026-10-04 16:56:09 - TShock: INFO: Zhen has joined. IP: 192.168.68.114
+2026-10-04 16:56:15 - Utils: INFO: Broadcast: Zhen has left.
+2026-10-04 16:56:15 - HandlerCollection`1: INFO: Zhen disconnected.
+2026-10-04 16:56:15 - ExecutionContext: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\MyWorld.wld)
+2026-10-04 16:56:50 - GetDataHandlers: INFO: Zhen authenticated successfully as user Zhen.
+2026-10-04 16:56:52 - HandlerCollection`1: INFO: Zhen (192.168.68.114) from 'owner' group from 'N/A' joined. (1/8)
+2026-10-04 16:56:52 - Utils: INFO: Broadcast: Zhen (N/A) has joined.
+2026-10-04 16:56:52 - TShock: INFO: Zhen has joined. IP: 192.168.68.114
+2026-10-04 16:56:58 - Commands: INFO: Zhen executed: .god.
+2026-10-04 17:00:00 - Utils: INFO: Broadcast: Zhen has left.
+2026-10-04 17:00:00 - HandlerCollection`1: INFO: Zhen disconnected.
+2026-10-04 17:00:01 - ExecutionContext: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\MyWorld.wld)
+2026-10-04 17:00:06 - GetDataHandlers: INFO: Zhen authenticated successfully as user Zhen.
+2026-10-04 17:00:10 - HandlerCollection`1: INFO: Zhen (192.168.68.114) from 'owner' group from 'N/A' joined. (1/8)
+2026-10-04 17:00:10 - Utils: INFO: Broadcast: Zhen (N/A) has joined.
+2026-10-04 17:00:10 - TShock: INFO: Zhen has joined. IP: 192.168.68.114
+2026-10-04 17:00:13 - Commands: INFO: Zhen executed: .god.
+2026-10-04 17:00:17 - Commands: INFO: Zhen executed: /give wood Zhen.
+2026-10-04 17:00:22 - Commands: INFO: Zhen executed: /give zenith Zhen.
+2026-10-04 17:00:30 - Commands: INFO: Zhen executed: .sm 1.
+2026-10-04 17:02:33 - ExecutionContext: INFO: World saved at (tshock\backups\MyWorld.wld.2026-10-04T09.02.33Z.bak)
+2026-10-04 17:02:33 - BackupManager: INFO: World backed up (tshock\backups\MyWorld.wld.2026-10-04T09.02.33Z.bak).
+2026-10-04 17:02:48 - Commands: INFO: Zhen executed: .sm 1.
+2026-10-04 17:03:05 - Commands: INFO: Zhen executed: .sm 1.
+2026-10-04 17:03:08 - Utils: INFO: Broadcast: Zhen has left.
+2026-10-04 17:03:08 - HandlerCollection`1: INFO: Zhen disconnected.
+2026-10-04 17:03:09 - ExecutionContext: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\MyWorld.wld)
+2026-10-04 17:03:28 - Commands: INFO: Zhen executed: /playing.
+2026-10-04 17:03:34 - GetDataHandlers: INFO: Zhen authenticated successfully as user Zhen.
+2026-10-04 17:03:37 - HandlerCollection`1: INFO: Zhen (192.168.68.114) from 'owner' group from 'N/A' joined. (1/8)
+2026-10-04 17:03:37 - Utils: INFO: Broadcast: Zhen (N/A) has joined.
+2026-10-04 17:03:37 - TShock: INFO: Zhen has joined. IP: 192.168.68.114
+2026-10-04 17:03:40 - Commands: INFO: Zhen executed: /god Zhen.
+2026-10-04 17:03:48 - Commands: INFO: Zhen executed: /give zenith Zhen.
+2026-10-04 17:03:57 - Commands: INFO: Zhen executed: .time 8:00.
+2026-10-04 17:08:15 - Utils: INFO: Broadcast: Zhen has left.
+2026-10-04 17:08:15 - HandlerCollection`1: INFO: Zhen disconnected.
+2026-10-04 17:08:16 - ExecutionContext: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\MyWorld.wld)

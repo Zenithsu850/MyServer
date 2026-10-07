@@ -1,0 +1,33 @@
+2026-10-04 16:08:08 - TextLog: INFO: Using ConstileationProvider for tile implementation
+2026-10-04 16:08:08 - TShock: INFO: TShock 6.2.1.0 (Profoundly Collaborative (3.11)) now running.
+2026-10-04 16:08:08 - TShock: INFO: AutoSave Enabled
+2026-10-04 16:08:08 - TShock: INFO: Backups Enabled
+2026-10-04 16:08:08 - TShock: INFO: Welcome to TShock for Terraria!
+2026-10-04 16:08:08 - TShock: INFO: TShock comes with no warranty & is free software.
+2026-10-04 16:08:08 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2026-10-04 16:08:16 - TShock: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2026-10-04 16:08:16 - TShock: INFO: Login using UUID enabled. Users automatically login via UUID.
+2026-10-04 16:08:16 - TShock: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2026-10-04 16:11:55 - TShock: INFO: Zhen (192.168.68.114) from 'guest' group from 'N/A' joined. (1/8)
+2026-10-04 16:11:55 - Utils: INFO: Broadcast: Zhen (N/A) has joined.
+2026-10-04 16:11:55 - Utils: INFO: Zhen has joined. IP: 192.168.68.114
+2026-10-04 16:13:09 - Utils: INFO: Zhen executed (args omitted): /login.
+2026-10-04 16:13:18 - Utils: INFO: Zhen executed (args omitted): /login.
+2026-10-04 16:13:28 - Utils: INFO: Broadcast: Zhen has left.
+2026-10-04 16:13:28 - TShock: INFO: Zhen disconnected.
+2026-10-04 16:13:28 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\MyWorld.wld)
+2026-10-04 16:14:26 - TShock: INFO: Zhen (192.168.68.114) from 'guest' group from 'N/A' joined. (1/8)
+2026-10-04 16:14:26 - Utils: INFO: Broadcast: Zhen (N/A) has joined.
+2026-10-04 16:14:26 - Utils: INFO: Zhen has joined. IP: 192.168.68.114
+2026-10-04 16:14:43 - Utils: INFO: Broadcast: Zhen has left.
+2026-10-04 16:14:43 - TShock: INFO: Zhen disconnected.
+2026-10-04 16:14:43 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\MyWorld.wld)
+2026-10-04 16:14:49 - TShock: INFO: Zhen (192.168.68.114) from 'guest' group from 'N/A' joined. (1/8)
+2026-10-04 16:14:49 - Utils: INFO: Broadcast: Zhen (N/A) has joined.
+2026-10-04 16:14:49 - Utils: INFO: Zhen has joined. IP: 192.168.68.114
+2026-10-04 16:14:56 - Utils: INFO: Broadcast: Zhen has left.
+2026-10-04 16:14:56 - TShock: INFO: Zhen disconnected.
+2026-10-04 16:14:56 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\MyWorld.wld)
+2026-10-04 16:16:09 - Utils: INFO: Server executed: /off.
+2026-10-04 16:16:09 - SaveManager: INFO: World saved at (C:\Users\Administrator\Documents\My Games\Terraria\Worlds\MyWorld.wld)
+2026-10-04 16:16:09 - Utils: INFO: Broadcast: Server shutting down!

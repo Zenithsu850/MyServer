@@ -1,0 +1,53 @@
+[10/03/26 23:02:39] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[10/03/26 23:02:39] [Server API] Verbose: 	Command line: C:\Users\Administrator\Desktop\Tshock\TShock.Server.exe
+[10/03/26 23:02:39] [Server API] Verbose: 	OS: Microsoft Windows NT 10.0.26200.0 (64bit: True)
+[10/03/26 23:02:39] [Server API] Verbose: 	Mono: False
+[10/03/26 23:02:40] [Server API] Info: Plugin TShock v6.2.1.0 (by The TShock Team) initiated.
+[10/04/26 13:55:48] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[10/04/26 13:55:48] [Server API] Verbose: 	Command line: C:\Users\Administrator\Desktop\Tshock\TShock.Server.exe
+[10/04/26 13:55:48] [Server API] Verbose: 	OS: Microsoft Windows NT 10.0.26200.0 (64bit: True)
+[10/04/26 13:55:48] [Server API] Verbose: 	Mono: False
+[10/04/26 13:55:50] [Server API] Info: Plugin TShock v6.2.1.0 (by The TShock Team) initiated.
+[10/04/26 16:08:07] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[10/04/26 16:08:07] [Server API] Verbose: 	Command line: C:\Users\Administrator\Desktop\Tshock\TShock.Server.exe
+[10/04/26 16:08:07] [Server API] Verbose: 	OS: Microsoft Windows NT 10.0.26200.0 (64bit: True)
+[10/04/26 16:08:07] [Server API] Verbose: 	Mono: False
+[10/04/26 16:08:08] [Server API] Info: Plugin TShock v6.2.1.0 (by The TShock Team) initiated.
+[10/04/26 16:16:49] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[10/04/26 16:16:49] [Server API] Verbose: 	Command line: C:\Users\Administrator\Desktop\Tshock\TShock.Server.exe
+[10/04/26 16:16:49] [Server API] Verbose: 	OS: Microsoft Windows NT 10.0.26200.0 (64bit: True)
+[10/04/26 16:16:49] [Server API] Verbose: 	Mono: False
+[10/04/26 16:16:50] [Server API] Info: Plugin TShock v6.2.1.0 (by The TShock Team) initiated.
+[10/04/26 16:18:18] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[10/04/26 16:18:18] [Server API] Verbose: 	Command line: C:\Users\Administrator\Desktop\Tshock\TShock.Server.exe
+[10/04/26 16:18:18] [Server API] Verbose: 	OS: Microsoft Windows NT 10.0.26200.0 (64bit: True)
+[10/04/26 16:18:18] [Server API] Verbose: 	Mono: False
+[10/04/26 16:18:18] [Server API] Info: Plugin TShock v6.2.1.0 (by The TShock Team) initiated.
+[10/04/26 16:18:42] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[10/04/26 16:18:42] [Server API] Verbose: 	Command line: C:\Users\Administrator\Desktop\Tshock\TShock.Server.exe
+[10/04/26 16:18:42] [Server API] Verbose: 	OS: Microsoft Windows NT 10.0.26200.0 (64bit: True)
+[10/04/26 16:18:42] [Server API] Verbose: 	Mono: False
+[10/04/26 16:18:42] [Server API] Info: Plugin TShock v6.2.1.0 (by The TShock Team) initiated.
+[10/04/26 16:20:53] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[10/04/26 16:20:53] [Server API] Verbose: 	Command line: C:\Users\Administrator\Desktop\Tshock\TShock.Server.exe
+[10/04/26 16:20:53] [Server API] Verbose: 	OS: Microsoft Windows NT 10.0.26200.0 (64bit: True)
+[10/04/26 16:20:53] [Server API] Verbose: 	Mono: False
+[10/04/26 16:20:53] [Server API] Info: Plugin TShock v6.2.1.0 (by The TShock Team) initiated.
+[10/07/26 00:50:10] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[10/07/26 00:50:10] [Server API] Verbose: 	Command line: C:\Users\Administrator\Desktop\Tshock\TShock.Server.exe
+[10/07/26 00:50:10] [Server API] Verbose: 	OS: Microsoft Windows NT 10.0.26200.0 (64bit: True)
+[10/07/26 00:50:10] [Server API] Verbose: 	Mono: False
+[10/07/26 00:50:11] [Server API] Info: Plugin TShock v6.2.1.0 (by The TShock Team) initiated.
+[10/07/26 00:50:11] [Server API] Info: Plugin ZhenRaid3 v1.0.0 (by ZenithSu) initiated.
+[10/07/26 00:57:41] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[10/07/26 00:57:41] [Server API] Verbose: 	Command line: C:\Users\Administrator\Desktop\Tshock\TShock.Server.exe
+[10/07/26 00:57:41] [Server API] Verbose: 	OS: Microsoft Windows NT 10.0.26200.0 (64bit: True)
+[10/07/26 00:57:41] [Server API] Verbose: 	Mono: False
+[10/07/26 00:57:41] [Server API] Info: Plugin TShock v6.2.1.0 (by The TShock Team) initiated.
+[10/07/26 00:57:41] [Server API] Info: Plugin ZhenRaid3 v1.0.0 (by ZenithSu) initiated.
+[10/07/26 01:02:35] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[10/07/26 01:02:35] [Server API] Verbose: 	Command line: C:\Users\Administrator\Desktop\Tshock\TShock.Server.exe
+[10/07/26 01:02:35] [Server API] Verbose: 	OS: Microsoft Windows NT 10.0.26200.0 (64bit: True)
+[10/07/26 01:02:35] [Server API] Verbose: 	Mono: False
+[10/07/26 01:02:35] [Server API] Info: Plugin TShock v6.2.1.0 (by The TShock Team) initiated.
+[10/07/26 01:02:35] [Server API] Info: Plugin ZhenRaid3 v1.0.0 (by ZenithSu) initiated.
